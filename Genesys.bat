@@ -1,0 +1,1 @@
+mkdir project && code project && cd project && mkdir js && mkdir css && mkdir ima && cd js && echo > script.js && cd .. &&  cd css && echo >style.css && cd .. && echo !!! Welcome to the New Project!!! > index.html && echo > README.md && start cmd && start index.html
